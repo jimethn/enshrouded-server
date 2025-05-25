@@ -2,6 +2,19 @@ apiVersion: v1
 entries:
   enshrouded-dedicated-server:
   - apiVersion: v1
+    created: "2025-05-25T19:03:06.907712719Z"
+    description: Enshrouded dedicated server.
+    digest: 1f79190dbe91b007a4f19d71c691964e2303e2214e33ed303405ed532c06c65f
+    home: https://github.com/jsknnr/enshrouded-server
+    keywords:
+    - game
+    - server
+    - enshrouded
+    name: enshrouded-dedicated-server
+    urls:
+    - https://github.com/jimethn/enshrouded-server/releases/download/enshrouded-dedicated-server-1.1.0/enshrouded-dedicated-server-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
     created: "2024-11-09T16:23:28.381444Z"
     description: Enshrouded dedicated server.
     digest: 7b605b1ed056165e2e1049488ab1f58f3522271d1fa18d911e34da349bc7ce31
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://github.com/jimethn/enshrouded-server/releases/download/enshrouded-dedicated-server-1.0.0/enshrouded-dedicated-server-1.0.0.tgz
     version: 1.0.0
-generated: "2024-11-09T16:23:28.381454609Z"
+generated: "2025-05-25T19:03:06.907721165Z"
